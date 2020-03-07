@@ -1,3 +1,3 @@
-- basketball
+* basketball
 * football
-- fly a jet
+  * fly a jet
