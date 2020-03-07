@@ -1,1 +1,3 @@
-basketball swimming football.
+- basketball
+* football
+- fly a jet
